@@ -1,0 +1,113 @@
+\begin{thebibliography}{10}
+
+\bibitem{Aaronson2008}
+Scott Aaronson.
+\newblock {The limits of quantum computers.}
+\newblock {\em Scientific American}, 298(3):50--57, 2008.
+
+\bibitem{Aharonov2008}
+Dorit Aharonov.
+\newblock {Quantum computation ∗}.
+\newblock pages 1--78, 2008.
+
+\bibitem{Dash}
+Bikash K.~Behera Avinash~Dash, Sumit~Rout and Prasanta~K. Panigrahi.
+\newblock A verification algorithm and its application to quantum locker in ibm
+  quantum computer.
+\newblock page~9.
+
+\bibitem{DeWolf2017}
+Ronald de~Wolf.
+\newblock {The potential impact of quantum computers on society}.
+\newblock {\em Ethics and Information Technology}, 0(0):1--6, 2017.
+
+\bibitem{Eker2017}
+Martin Eker and H~Johan.
+\newblock {Quantum algorithms for computing short discrete logarithms and
+  factoring RSA integers}.
+\newblock pages 1--15, 2017.
+
+\bibitem{Grover1996}
+Lov~K. Grover.
+\newblock {A fast quantum mechanical algorithm for database search}.
+\newblock {\em Proceedings of the twenty-eighth annual ACM symposium on Theory
+  of computing - STOC '96}, pages 212--219, 1996.
+
+\bibitem{Harrow2015}
+Aram~W Harrow.
+\newblock {Quantum Algorithms for Systems of Linear Equations}.
+\newblock pages 2--4, 2015.
+
+\bibitem{IBM}
+IBM.
+\newblock {Now testing: prototype 50 qubit processor}.
+
+\bibitem{IBMa}
+IBM.
+\newblock {What is Quantum Computing}.
+
+\bibitem{IsraelKoren}
+{Israel Koren}.
+\newblock {A. The RSA Encryption Algorithm}.
+
+\bibitem{Kachigar}
+Ghazal Kachigar and Jean-pierre Tillich.
+\newblock {Quantum Information Set Decoding Algorithms}.
+\newblock pages 1--20.
+
+\bibitem{Kenneth2011}
+Rosen Kenneth.
+\newblock {\em {Elementary Number Theory {\&} its applications}}.
+\newblock Pearson, 2011.
+
+\bibitem{Kortekaas2015}
+Theo Kortekaas.
+\newblock {TOP: Multiplying large numbers and the Sch{\"{o}}nhage-Strassen
+  Algorithm}.
+\newblock (february):1--51, 2015.
+
+\bibitem{Montanaro2015}
+Ashley Montanaro.
+\newblock {The past, present, and future history of quantum computing}.
+\newblock (November), 2015.
+
+\bibitem{Waterloo}
+University of~Waterloo.
+\newblock {What is Quantum Computing 101}.
+
+\bibitem{Shor1995}
+Peter~W. Shor.
+\newblock {Polynom\nocite{*}\nocite{*}ial-Time Algorithms for Prime
+  Factorization and Discrete Logarithms on a Quantum Computer}.
+\newblock pages 124--134, 1995.
+
+\bibitem{Vazirani2004}
+Umesh Vazirani.
+\newblock {Quantum Computation}.
+\newblock 2004.
+
+\bibitem{Wang2017}
+Wen Wang, Xu~Jiang, Liang-zhu Mu, and Heng Fan.
+\newblock {A quantum algorithm for greatest common divisor problem}.
+\newblock pages 3--7, 2017.
+
+\bibitem{Washington2006}
+Wade~Trappe Washington and Lawrence C.
+\newblock {\em {Introduction to Cryptography with Coding Theory 2nd Edition}}.
+\newblock Pearson-Prentice Hall, 2006.
+
+\bibitem{Watrous2006}
+John Watrous.
+\newblock {Lecture 5 : A simple searching algorithm ; the Deutsch-Jozsa
+  algorithm}.
+\newblock {\em Quantum}, pages 1--6, 2006.
+
+\bibitem{SentimentAnalysis}
+Wikipieda.
+\newblock {Sentiment Analysis}.
+
+\bibitem{Zeng}
+William~J Zeng.
+\newblock {The Abstract Structure of Quantum Algorithms}.
+
+\end{thebibliography}

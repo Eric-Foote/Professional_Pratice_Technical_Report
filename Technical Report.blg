@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Technical Report.aux
+The style file: plain.bst
+Multiple inclusions of entire database
+---line 62 of file Technical Report.aux
+ : \citation{*
+ :            }
+I'm skipping whatever remains of this command
+Multiple inclusions of entire database
+---line 69 of file Technical Report.aux
+ : \citation{*
+ :            }
+I'm skipping whatever remains of this command
+Database file #1: References2.bib
+I was expecting a `,' or a `}'---line 12 of file References2.bib
+ : 
+ : journal = {}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 197 of file References2.bib
+ : @article{Watrous2006
+ :                     ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Aharonov2008
+Warning--empty journal in Dash
+Warning--empty year in Dash
+Warning--empty journal in Eker2017
+Warning--empty journal in Harrow2015
+Warning--empty journal in IBM
+Warning--empty year in IBM
+Warning--empty journal in Kachigar
+Warning--empty year in Kachigar
+Warning--empty journal in Kortekaas2015
+Warning--there's a number but no volume in Kortekaas2015
+Warning--empty journal in Montanaro2015
+Warning--there's a number but no volume in Montanaro2015
+Warning--empty journal in Shor1995
+Warning--empty journal in Vazirani2004
+Warning--empty journal in Wang2017
+Warning--empty journal in Zeng
+Warning--empty year in Zeng
+You've used 22 entries,
+            2118 wiz_defined-function locations,
+            611 strings with 6319 characters,
+and the built_in function-call counts, 6013 in all, are:
+= -- 590
+> -- 194
+< -- 9
++ -- 81
+- -- 58
+* -- 314
+:= -- 980
+add.period$ -- 60
+call.type$ -- 22
+change.case$ -- 93
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 275
+empty$ -- 518
+format.name$ -- 58
+if$ -- 1280
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 20
+newline$ -- 107
+num.names$ -- 44
+pop$ -- 146
+preamble$ -- 1
+purify$ -- 73
+quote$ -- 0
+skip$ -- 222
+stack$ -- 0
+substring$ -- 330
+swap$ -- 61
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 18
+while$ -- 75
+width$ -- 24
+write$ -- 205
+(There were 4 error messages)

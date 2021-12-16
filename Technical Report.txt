@@ -1,0 +1,33 @@
+An Investigation into the Ethical Issues in the Applications of a few Quantum Algorithms
+
+Abstract
+
+Introduction
+
+Quantum computing manipulates the laws of quantum mechanics to process information. Quantum computers currently would speed up only a select few problems, for example, breaking certain cryptographic algorithms like RSA. However, quantum computers currently have the same algorithmic limitations as a classical computer with respect to most other problems. Quantum computers use qubits instead of bits, the difference being that a qubit is a particle with a quantum state of either spin up which normally corresponds to a 1 or spin down which corresponds to a 0 or a superposition which simultaneously involves spin up and spin down; a few qubits in superposition can store alot of information and the method that you interact with a quantum computer is you manipulate the numbers stored not the actual qubit itself. We should look into the ethical issues associated with this kind of computing because as it relates to cryptography because most cryptographic algorithms out there like RSA for example derive their security on factoring large integers and discrete logarithms being in a class of hard problems. Through the remainder of this piece we are first going to briefely look at a rough timeline of quantum computing from the beginning to the modern day, we are going to go through some cryptographic algorithms and look at some quantum computing algorithms that can break them, then we are going to look at some of the ethical issues in the applications of thoes quantum algorithms. Then we are going to look at some other quantum algorithms and explore the possible ethical issues. Then we are going to bring together all the papers and relate the ethical issues.
+
+Background
+
+Quantum computing's roots can be traced back to the 1980's when in 1982 Richard Feynman postulated whether or not quantum mechanics can be simulated on a quantum computer, later, in 1985  David Deutsch preposed the abstract mathematical concept of a quantum Turing machine. While this was going on  Bennett and Brassard proposed in 1984 to use Quantum mechanics to send keys for a cryptography. In the 1990's Quantum teleportation was proposed and later demonstrated. The basic idea behind teleportation is Alice and Bob start by sharing a pair of entangled (there exist systems of multiple parts which cannot be described only in terms of their constituent parts) qubits, Alice does some manipulation to their piece and the piece they want to send, then Alice sends the measurement result of the piece they wanted to send to Bob and then Bob does some correction to their qubit based on the result given. Before we go deeper into quantum computing we should step back and take a look at the field of cryptography. By definition cryptography is the study of techniques and systems to protect data and communications from unauthorized interception or tampering. One of the most widely used encryption schemas is RSA (Rivest, Shamir, Adleman, 1977) and in order to recieve messages from Alice, Bob needs to choose two distinct prime numbers p and q and multiply them together to get n and also compute something called the Euler Phi-Function which is (p-1)(q-1) then Bob picks an element e from the sub group of integers from 1 -> phi(n)-1 which are relatively prime (gcd(phi(n),e)=1) and computes the inverse of e modulo phi(n) and makes (n,e) public to recieve messages and keeps (p,q,d) private. RSA derives their security based on factoring integers and solving the discretelog problem being in a class of hard problems. I believe we now have enough pre requsite information to start looking at a few algorithms and exploring the possible ethical issues.       
+
+Methods
+
+Shor's Algorithm
+
+Shor's Algorithm is a set of polynomial-time (big oh of some power of the input) algorithms for prime factorization and discrete logarithms. 
+
+
+
+Discussion
+
+Conclusion
+
+References
+
+http://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/
+http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf
+Shor, P. W. Polynomial-time algorithms for prime factorization and discrete logarithms on a quan-
+tum computer. SIAM J. Comput. 26, 5 (1997), 1484–1509.
+https://people.maths.bris.ac.uk/~csxam/teaching/history.pdf
+Math 4703 Lecture Notes
+http://www.ecs.umass.edu/ece/koren/FaultTolerantSystems/simulator/RSA/new_page_5.htm
